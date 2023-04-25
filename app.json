@@ -1,5 +1,5 @@
 {
-  "name": "AutoCaption_Ts_Bot-Clone",
+  "name": "AutoCaptionts",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "website": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "repository": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
+  "success_url": "https://github.com/profilebyparadox/AutoCaptionts",
+  "website": "https://github.com/profilebyparadox/AutoCaptionts",
+  "repository": "https://github.com/profilebyparadox/AutoCaptionts",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
